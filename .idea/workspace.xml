@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e438f13-b896-48df-9573-205a710e16f0" name="Default Changelist" comment="" />
+    <list default="true" id="2e438f13-b896-48df-9573-205a710e16f0" name="Default Changelist" comment="project">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +13,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -124,6 +130,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1ieV756ViNhWK5y8QaznRYhPdqM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -178,21 +185,35 @@
       <workItem from="1604496029709" duration="58000" />
       <workItem from="1605802969022" duration="441000" />
       <workItem from="1606502284521" duration="430000" />
+      <workItem from="1606983573617" duration="413000" />
     </task>
+    <task id="LOCAL-00001" summary="project">
+      <created>1606983812199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606983812199</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project" />
+    <option name="LAST_COMMIT_MESSAGE" value="project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602272937475">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="320" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1602272937475" />
-    <state x="409" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603698728114">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="409" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606984156579">
+      <screen x="0" y="25" width="1440" height="790" />
     </state>
     <state x="409" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.797@0.23.1440.797" timestamp="1603698728114" />
+    <state x="409" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.790@0.25.1440.790" timestamp="1606984156579" />
     <state x="458" y="183" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1602328711939">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -209,6 +230,10 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="221" y="60" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1603703710035" />
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2" timestamp="1606983815699">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.25.1440.790@0.25.1440.790" timestamp="1606983815699" />
     <state x="625" y="307" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1602272992722">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -217,6 +242,10 @@
       <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state x="538" y="129" width="604" height="735" key="find.popup/0.23.1680.947@0.23.1680.947" timestamp="1603555496559" />
+    <state x="542" y="318" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606983656475">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state x="542" y="318" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1440.790@0.25.1440.790" timestamp="1606983656475" />
     <state x="385" y="72" width="670" height="676" key="search.everywhere.popup" timestamp="1603696984535">
       <screen x="0" y="23" width="1440" height="797" />
     </state>

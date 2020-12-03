@@ -10,5 +10,11 @@
         <property name="serverTimezone" value="UTC" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="fxofhvxt@dumbo.db.elephantsql.com" uuid="6936eab2-eac4-4a1c-955f-d8c8fce17d60">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://dumbo.db.elephantsql.com:5432/fxofhvxt</jdbc-url>
+    </data-source>
   </component>
 </project>
